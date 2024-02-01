@@ -1,0 +1,1 @@
+"In this folder there are the images that xampp shortcuts need to work properly, please do not delete these files, otherwise it will no longer work. The image files are hidden for security reasons."

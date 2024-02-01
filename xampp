@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Xampp
+Comment=Localhost server per PHP MySQL
+Exec=NOMETERMINALE -x sudo /usr/share/xampp/xampp.sh
+Icon=/usr/share/xampp/xampp.png
+Terminal=true
+Categories=Network;WebBrowser;
+Type=Application
+StartupNotify=false

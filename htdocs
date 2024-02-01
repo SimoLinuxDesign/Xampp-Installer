@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Xampp htdocs
+Comment=Finestra htdocs per gestire i file all'interno del server locale (Cartella Xampp)
+Exec=FILEMANAGER /opt/lampp/htdocs
+Icon=/usr/share/xampp/htdocs.png
+Terminal=false
+Categories=Network;WebBrowser;
+Type=Application
+StartupNotify=false
