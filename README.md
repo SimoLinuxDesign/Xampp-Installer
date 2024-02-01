@@ -1,3 +1,11 @@
+<style>
+    .head1{ color:#FF8500; }
+    .head2{ color:#FF8500; }
+    .head3{ color:#80B847; }
+    .aware{ color:red; }
+    .notrilevant{ color:gray; }
+</style>
+
 # <span style="color:#FF8500;">Xampp Installer</span>
 
 <span style="color:#EDCDB6">This project was created with the aim of creating a simple installer for xampp and above all to add a launcher for xampp, avoiding having to open it via command line, so as to have everything at hand.</span>
@@ -6,7 +14,7 @@
 
 ---
 
-## <span style="color:#FF8500">INSTALLATION</span>
+## <span class=".head2">INSTALLATION</span>
 
 #### <u style="color:#80B847;">Preparing Git folder</u>
 
