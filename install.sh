@@ -226,7 +226,7 @@ sudo cp -i xampp.png /usr/share/xampp/xampp.png
 echo $tyellow"Created xampp icon"
 sudo cp -i htdocs.png /usr/share/xampp/htdocs.png
 echo $tpurle"Created htdocs icon"
-sudo cp -i .readme.txt /usr/share/xampp/readme.txt
+sudo cp -i .xampp-readme.txt /usr/share/xampp/readme.txt
 echo $tcyan"Created readme file"
 echo ""
 ############################################
