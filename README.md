@@ -8,7 +8,7 @@
 
 ## <span style="color:#FF8500">INSTALLATION</span>
 
-#### <u style="color:#80B847;">Preparing Git folder</u>
+### <u style="color:#80B847;">Preparing Git folder</u>
 
 The installer for xampp is really easy and automatically.
 First of all, create a folder where to download this repository:
@@ -25,7 +25,7 @@ Let's copy the repository:
 
 Now you have all the required installation files in your folder.
 
-#### <u style="color:#80B847;">Installation Starting</u>
+### <u style="color:#80B847;">Installation Starting</u>
 
 Now, we are ready to install Xampp.
 The first thing that we have to do is to change the user permission to execute the script "**install.sh**".
@@ -44,7 +44,7 @@ Insert the sudo password, and after that we are able to execute the script insta
 
 And so, welcome to the installer! =)
 
-#### <u style="color:#80B847;">Installation Explanation</u>
+### <u style="color:#80B847;">Installation Explanation</u>
 
 The installation is totally automatic. What you have to do only to follow all the installation process and only insert the sudo password when requested.
 
@@ -68,7 +68,7 @@ Now you can follow again the installation until the end. It will not take longer
 
 Once you finished, the installation is compleated =)!!
 
-#### <u style="color:#80B847;">List of Installed Files</u>
+### <u style="color:#80B847;">List of Installed Files</u>
 
 This process will is going to install diffentents files:
 
@@ -88,7 +88,7 @@ The procedure run the unistall.sh is the same of the "install.sh".
 
 ## <span style="color:#FF8500">REPORTING BUGS</span>
 
-#### <u style="color:#80B847;">How to report bugs</u>
+### <u style="color:#80B847;">How to report bugs</u>
 
 If you have any issue during the installation or execution, please email me the at <a href="mailto:SimoLinuxDesign@gmail.com">SimoLinuxDesign@gmail.com</a>
 
